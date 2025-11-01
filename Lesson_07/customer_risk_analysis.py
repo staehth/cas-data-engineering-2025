@@ -6,8 +6,8 @@ from airflow.utils.dates import days_ago
 from datetime import timedelta
 
 # Configuration
-PROJECT_ID = "cas-daeng-2025-pect"
-BUCKET = "retail-data-pect"
+PROJECT_ID = "cas-data-engineer-2025"
+BUCKET = "retail-data-staehth1"
 DATASET = "ecommerce"
 
 default_args = {
